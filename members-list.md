@@ -715,6 +715,11 @@ Football enthusiast.
 **About**:  
 I m kho-kho player,interseted in mathematics  
 
+**Name**:  Adithya M S  
+**SRN**:  PES1201901926  
+**Link to Profile**:  [Adithya-S-Bhat](https://github.com/Adithya-S-Bhat)  
+**About Me**:  Hey guys!! I love coding, reading and gaming.Learner.
+
 **Name**: Umashankar Sivakumar  
 **SRN**: PES1201701296  
 **Link to profile**: [UmashankarTriforce](https://github.com/UmashankarTriforce)  
@@ -754,8 +759,3 @@ All about the Flow. The Logic. Somebody who cares a ton about what is going on a
 **SRN**: PES1201800429  
 **Link to Profile**: [tanishaagarwal346](https://github.com/tanishaagarwal346)  
 **About Me**:  I declare variables , not wars.  
-
-**Name**:  Adithya M S  
-**SRN**:  PES1201901926  
-**Link to Profile**:  [Adithya-S-Bhat](https://github.com/Adithya-S-Bhat)  
-**About Me**:  Hey guys!! I love coding, reading and gaming. Cricket is life.Learner.
